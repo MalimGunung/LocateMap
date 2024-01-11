@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
                 }
                 return false;
             }
-
+             ///asas
             @Override
             public boolean onQueryTextChange(String newText) {
                 return false;
